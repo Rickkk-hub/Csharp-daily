@@ -1,0 +1,68 @@
+🗓 C# Daily Task Plan (Days 1–30)
+Week 1 – Getting Started
+
+Day 1: Install .NET SDK & Visual Studio Code. Run your first Hello World program.
+
+Day 2: Print your name, age, and hobby using Console.WriteLine().
+
+Day 3: Learn variables. Declare string, int, double, bool. Print them.
+
+Day 4: Do math with operators (+, -, *, /, %). Make a calculator with 2 numbers.
+
+Day 5: Get user input using Console.ReadLine(). Ask name & greet them.
+
+Day 6: Combine variables and input. Ask for name + age → print in a sentence.
+
+Day 7: Review Week 1. Mini project: “Simple Profile” program.
+
+Week 2 – Conditions
+
+Day 8: Learn if statement. Check if number is positive or negative.
+
+Day 9: Use if/else. Check if a person is old enough to vote (18+).
+
+Day 10: Use else if. Grade checker (90+ = A, 80–89 = B, etc.).
+
+Day 11: Practice logical operators (&&, ||). Login system with username + password.
+
+Day 12: Learn switch. Build a menu with 3 food choices.
+
+Day 13: Mini project: ATM menu (check balance, deposit, withdraw).
+
+Day 14: Weekly review. Solve 3 condition-based problems.
+
+Week 3 – Loops
+
+Day 15: Learn for loop. Print numbers 1–10.
+
+Day 16: while loop. Print even numbers up to 20.
+
+Day 17: do while loop. Guessing game (ask until user types correct answer).
+
+Day 18: Nested loops. Print a multiplication table (1–10).
+
+Day 19: foreach loop. Loop through an array of 5 names.
+
+Day 20: Mini project: Number guessing game (random number 1–100).
+
+Day 21: Weekly review. Pick 2 loop challenges to solve.
+
+Week 4 – Methods & Arrays
+
+Day 22: Create a method SayHello() that prints “Hello World!”.
+
+Day 23: Method with parameters (say hello with a name).
+
+Day 24: Method with return value (square of a number).
+
+Day 25: Learn arrays. Store 5 favorite colors and print them.
+
+Day 26: Loop through an array with for and foreach.
+
+Day 27: Mini project: Calculator with methods (add, subtract, multiply, divide).
+
+Day 28: Mini project: Student grades array + average calculator.
+
+Day 29: Review everything in Week 4.
+
+Day 30: Project: Simple To-Do List (store tasks in an array and print them).
