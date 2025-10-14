@@ -1,0 +1,15 @@
+how to start .dotnet c#
+1st: Go to 👉 https://dotnet.microsoft.com/download
+
+//after the download check the version if already install it.
+2nd: dotnet --version
+
+//now create a new file c# project
+3rd: dotnet new console -n MyFirstApp
+
+//now call your folder using this
+4th: cd MyFirstApp
+
+//now Run the Project
+5th: dotnet run
+
