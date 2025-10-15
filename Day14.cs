@@ -8,7 +8,7 @@ class Day14
 {
     public static void Run()
 
-    {   // this my out
+    {   // this my output
         string Realuser = "rick";
         string RealPass = "12345";
         
