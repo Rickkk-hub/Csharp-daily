@@ -36,9 +36,10 @@ public class Day24
         foreach (var item in count)
 
         sum += item.Value;
-
-        Console.WriteLine($"Total characters: {sum}");
+        
         Console.WriteLine();
+        Console.WriteLine($"Total characters: {sum}");
+        
 
     }
 
