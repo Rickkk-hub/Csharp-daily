@@ -13,3 +13,8 @@ how to start .dotnet c#
 //now Run the Project
 5th: dotnet run
 
+
+Commamd 
+1. Add-migration for the database
+example:
+Add-Migration InitialCreate -OutputDir "Infrastructure\Migrations"
