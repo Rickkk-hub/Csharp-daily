@@ -13,7 +13,6 @@ how to start .dotnet c#
 //now Run the Project
 5th: dotnet run
 
-
 Commamd 
 1. Add-migration for the database
 example:
@@ -26,3 +25,9 @@ C# devkit
 .Net Install Tool
 Nuget Gallery
 Prettier
+
+Microsoft Packages
+1. Microsoft.EntityFrameworkCore
+2. Microsoft.EntityFrameworkCore.Tools
+3. Microsoft.EntityFrameworkCore.SqlServer
+4. Microsoft.EntityFrameworkCore.Design
