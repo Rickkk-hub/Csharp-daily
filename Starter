@@ -18,3 +18,11 @@ Commamd
 1. Add-migration for the database
 example:
 Add-Migration InitialCreate -OutputDir "Infrastructure\Migrations"
+
+Extension for vscode
+C#
+C# devkit
+.Net Extension pack
+.Net Install Tool
+Nuget Gallery
+Prettier
